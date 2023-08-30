@@ -1,5 +1,5 @@
 # xiaomi.eu_multi_CHOPIN_V14.0.7.0.TKPCNXM_v14-13
-xiaomi.eu_multi_CHOPIN_V14.0.7.0.TKPCNXM_v14-13 ROM from Xiaomi.eu Patreon
+`xiaomi.eu_multi_CHOPIN_V14.0.7.0.TKPCNXM_v14-13` ROM from Xiaomi.eu Patreon
 
 [Xiaomi EU](https://xiaomi.eu/community/) ROM for 红米 Note 10 Pro / POCO X3 GT (chopin).
 
@@ -7,4 +7,4 @@ xiaomi.eu_multi_CHOPIN_V14.0.7.0.TKPCNXM_v14-13 ROM from Xiaomi.eu Patreon
 >
 > [Source](https://www.patreon.com/posts/all-stables-have-87954055)
 
-View [Release](/releases/) to download the ROM.
+View Release to download the ROM.
